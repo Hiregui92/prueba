@@ -1,0 +1,21 @@
+{
+    "data":{
+        "loginStatus":[
+            3
+        ],
+        "sessionsInfo":[
+            {
+                "id":4,
+                "user_id":21166,
+                "client_id":2,
+                "name":null,
+                "scopes":"[\"order\",\"update-order\",\"approve-or-reject-order\",\"dynamicSearch-order\",\"downloadExcel-order\",\"scheduling\",\"downloadExcel-scheduling\",\"dynamicSearch-scheduling\",\"view-scheduling\",\"viewOthersUsers-scheduling\",\"orderAttention\",\"admin-orderAttention\",\"dynamicSearch-orderAttention\",\"admin-tracingGlobal\",\"markAsDelivered-orderAttention\",\"markAsOrderRecep-orderAttention\",\"receptionInquiry-orderAttention\",\"markAsMassiveOrderRecep-orderAttention\",\"exportToExcel-orderAttention\",\"deliveryOrderForced-orderAttention\",\"deliveryMassiveOrderForced\",\"showDeliveryOrderForced\",\"exportDeliveryOrderForced\"]",
+                "revoked":0,
+                "created_at":"2018-10-03 17:42:12",
+                "updated_at":"2018-10-03 17:42:12",
+                "expires_at":"2018-10-04 17:42:12"
+            }
+        ]
+    },
+    "message":"Tienes más de una sesión iniciada"
+}
